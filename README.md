@@ -1,3 +1,5 @@
+## This repo is containing configuration for ESLint and Prettier for the use with React App in VSCode.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
