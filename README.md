@@ -1,5 +1,9 @@
 ## This repo is containing configuration for ESLint and Prettier for the use with React App in VSCode.
 
+Here's a [Medium article](https://medium.com/@haykerman/setting-up-eslint-prettier-for-react-app-in-vscode-8662de2d9a96) describing the steps to recreate this project locally.
+
+## And the CRA stuff...
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
